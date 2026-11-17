@@ -1,0 +1,13 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.db
+# Node
+node_modules/
+dist/
+# Variables de entorno (se versionan solo los .env.example)
+.env
+.env.local
+.DS_Store
