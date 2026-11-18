@@ -6,7 +6,7 @@ La sesión viaja en una **cookie HttpOnly** con un JWT: el frontend nunca lee ni
 
 - **Alumno:** Franco Sarru — Tecnicatura Universitaria en Programación a Distancia (UTN)
 - **Repositorio:** https://github.com/fsarru/ProgIV_TPI.git
-- **Video de demostración:** Youtube
+- **Video de demostración:** [Link](https://youtu.be/xYvqif81Ma0)
 
 ## Requisitos
 | Herramienta | Versión |
