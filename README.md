@@ -4,7 +4,7 @@ Sistema de pedidos de comida. **Backend:** FastAPI + SQLModel (arquitectura en c
 **Frontend:** React + TypeScript (por features) con TanStack Query / Form / Table, Zustand y Axios.
 La sesión viaja en una **cookie HttpOnly** con un JWT: el frontend nunca lee ni guarda el token.
 
-- **Alumno:** Franco Sarru — Tecnicatura Universitaria en Programación a Distancia (UTN)
+- **Alumno:** Franco Sarrú — Tecnicatura Universitaria en Programación a Distancia (UTN)
 - **Repositorio:** https://github.com/fsarru/ProgIV_TPI.git
 - **Video de demostración:** [Link](https://youtu.be/xYvqif81Ma0)
 
